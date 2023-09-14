@@ -59,12 +59,12 @@
       },
       "GROUP_USERNAME": {
        "description": "Fill here your group username ( without @ ) , {If group is private then fill after (https://t.me/) Parts, Like:- (+95vqurE-w8VkYHAl)} ",   
-       "value": "katilsupport",
+       "value": "SezumeSupportGroup",
        "required": false
       },
       "CHANNEL_USERNAME": {
        "description": "Fill here your channel username ( without @ ), {If channel is private then fill after (https://t.me/) Parts, Like:- (+81vaoeE-w8VkYSTl)}. ",
-       "value": "katil_bots",
+       "value": "SezumeSupportGroup",
        "required": false
       },
       "LOG_GROUP_ID": {
