@@ -45,8 +45,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Only  Links formats are  accepted for this Var value.
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL","https://t.me/+Ilr-8Fi-bRQ3MjE1")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/+Ilr-8Fi-bRQ3MjE1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL","https://t.me/SezumeSupportGroup")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/SezumeSupportGroup")
 
 # Custom max audio(music) duration for voice chat. set DURATION_LIMIT in variables with your own time(mins), Default to 60 mins.
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "5000"))
