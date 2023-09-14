@@ -1,7 +1,7 @@
 from ZedzeX.core.bot import ZedzeXBot
 from ZedzeX.core.dir import dirr
 from ZedzeX.core.git import git
-from ZedzeX.core.userbot import Userbot
+from ZedzeX.core.userbot import userbot
 from ZedzeX.misc import dbb, heroku
 
 from .logging import LOGGER
