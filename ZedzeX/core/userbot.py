@@ -1,4 +1,4 @@
-from pyrogram import Client
+import sys
 
 import config
 
